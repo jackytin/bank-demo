@@ -1,0 +1,14 @@
+dependencies {
+    compile("org.springframework.cloud:spring-cloud-starter-bootstrap")
+    compile("org.springframework.boot:spring-boot-starter-data-jdbc")
+    compile("org.springframework.boot:spring-boot-starter-web")
+    compile("com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery")
+    compile("com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-config")
+    compile("org.springframework.cloud:spring-cloud-starter-loadbalancer")
+    compile("org.springframework.cloud:spring-cloud-starter-openfeign")
+    compile("com.alibaba.cloud:spring-cloud-starter-alibaba-sentinel")
+    compile("org.springframework.cloud:spring-cloud-starter-openfeign")
+    compile("cn.hutool:hutool-all:4.5.15")
+}
+
+

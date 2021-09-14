@@ -1,0 +1,6 @@
+dependencies {
+    compile(project(":kg2x-cloud-framework"))
+    compile ("org.springframework.boot:spring-boot-starter-security")
+    compile("org.springframework.security:spring-security-core")
+    compile 'io.jsonwebtoken:jjwt:0.9.1'
+}

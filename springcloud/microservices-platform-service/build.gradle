@@ -1,0 +1,5 @@
+dependencies {
+  compile project(":bank-business-foundation")
+  compile project(":bank-business-foundation-custom")
+  compile("mysql:mysql-connector-java")
+}

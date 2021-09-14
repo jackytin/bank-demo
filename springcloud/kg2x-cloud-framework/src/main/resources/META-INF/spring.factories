@@ -1,0 +1,10 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.doublechaintech.configuration.EntityCallBackAutoConfiguration,\
+  com.doublechaintech.configuration.EntityServiceAutoConfiguration
+
+org.springframework.context.ApplicationContextInitializer=\
+  com.doublechaintech.configuration.UserContextInitializer
+
+
+
+

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="true" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$USER_HOME$/.sdkman/candidates/gradle/current" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/bank-business-foundation" />
+            <option value="$PROJECT_DIR$/bank-business-foundation-custom" />
+            <option value="$PROJECT_DIR$/kg2x-bff-foundation" />
+            <option value="$PROJECT_DIR$/kg2x-cloud-framework" />
+            <option value="$PROJECT_DIR$/microservices-my-merchant-service" />
+            <option value="$PROJECT_DIR$/microservices-platform-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

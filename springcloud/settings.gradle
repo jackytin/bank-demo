@@ -1,0 +1,9 @@
+rootProject.name = "bank-spring-cloud"
+include 'kg2x-cloud-framework'
+include 'kg2x-bff-foundation'
+include 'bank-business-foundation'
+include 'bank-business-foundation-custom'
+
+include 'microservices-platform-service'
+include 'microservices-my-merchant-service'
+
